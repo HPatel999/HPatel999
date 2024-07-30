@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Harsh Patel, a Software Engineering Alumni at McGill University :desktop_computer:	
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tornade99)](https://leetcode.com/tornade99)
+
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tornade99&theme=dark)
